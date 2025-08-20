@@ -1,4 +1,4 @@
-# Count Even Numbers (Quickie)
+# Count Even Numbers (quickie)
 
 Welcome to my simple program. It asks the user for numbers, prints the even ones, and shows how many even numbers were entered.  
 
