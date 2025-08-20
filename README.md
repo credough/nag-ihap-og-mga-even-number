@@ -1,6 +1,6 @@
 # Count Even Numbers (Quickie)
 
-Welcome to my simple program — it asks the user for numbers, prints the even ones, and shows how many even numbers were entered.  
+Welcome to my simple program. It asks the user for numbers, prints the even ones, and shows how many even numbers were entered.  
 
 ## Screenshot
 
@@ -14,7 +14,7 @@ Welcome to my simple program — it asks the user for numbers, prints the even o
 - Displays the total count  
 
 ## How to run
-1. Save the code into a file (e.g., `even_numbers.c`)  
+1. Save the code into a file (e.g., `binabagabag.c`)  
 2. Compile it:  
    ```bash
    gcc binabagabag.c -o binabagabag
